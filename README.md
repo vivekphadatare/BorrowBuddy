@@ -54,8 +54,7 @@ npm start
 
 ---
 
-## 👤 Developed By
+## 👤 Developed & Modified By
+Vivek Phadatare
 
-**Vedanti Shedage**  
-📧 vedantishedge13@gmail.com  
-🔗 [GitHub – Vedantis13](https://github.com/Vedantis13)
+
