@@ -1,0 +1,31 @@
+.item-list-container {
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: #fdfdfd;
+}
+
+.item-list-container h2 {
+  text-align: center;
+  color: #007bff;
+}
+
+.item-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.item-table th,
+.item-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+}
+
+.item-table th {
+  background-color: #007bff;
+  color: white;
+}
