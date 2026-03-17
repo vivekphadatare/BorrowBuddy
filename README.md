@@ -20,7 +20,7 @@ A full-stack web app to borrow and lend items in your neighborhood.
 - **Frontend:** React.js  
 - **Backend:** Spring Boot (Java)  
 - **Database:** MySQL  
-- **Tools:** Axios, Postman, Git, Workbench
+- **Tools:** Axios, Postman
 
 ---
 
@@ -50,7 +50,7 @@ npm start
 ```
 
 ### Database:
-- Import `db/borrowbuddy.sql` into MySQL Workbench
+- Import `db/borrowbuddy.sql` into MySQL 
 
 ---
 
